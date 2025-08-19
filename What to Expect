@@ -1,0 +1,7 @@
+Day 3 of Vibe Coding Week is packed with actionable content, live coding, and step-by-step guidance. Here’s the agenda:1. The “Based” StackDiscover the core components that make an application truly “Based” on the Base blockchain:Smart Accounts: Learn how to leverage account abstraction for enhanced user experiences.
+OnchainKit: Explore tools for seamless on-chain interactions.
+Paymaster for Gasless Transactions: Understand how to implement gasless transactions, removing the barrier of gas fees for users and making your dApps more inclusive.
+
+2. Live Build: Coding a Gasless ComponentFollow along with the BuildOnBase team as they code a gasless component from scratch. This live demonstration will walk you through the process, providing real-time insights into best practices and practical implementation. You’ll see how to integrate gasless transactions into your projects, making them more user-friendly and cost-effective.3. From Standard to Mini AppLearn how to transform a standard application into a Mini App optimized for the Base ecosystem. The session will cover:Integrating essential tools from the “Based” stack.
+Converting an existing app into a lightweight, efficient Mini App.
+
